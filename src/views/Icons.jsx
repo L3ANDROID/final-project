@@ -107,7 +107,7 @@ class Icons extends React.Component {
                               </div>
                               <a href="#">
                                 <img
-                                  class="avatar-img"
+                                  className="avatar-img"
                                   alt="Image placeholder"
                                   src="https://demos.creative-tim.com/vue-argon-dashboard-pro//img/theme/team-4.jpg"
                                 />
@@ -129,7 +129,7 @@ class Icons extends React.Component {
                             <Col xs="auto">
                               Asesor(a):&nbsp;&nbsp;
                               <img
-                                class="miniavatar-img"
+                                className="miniavatar-img"
                                 alt="Image placeholder"
                                 src="https://www.psicoactiva.com/blog/wp-content/uploads/2017/07/mujer-feliz-gorro-tatuaje.jpg"
                               />
@@ -137,22 +137,22 @@ class Icons extends React.Component {
                             <Col xs="auto">
                               participantes:&nbsp;&nbsp;
                               <img
-                                class="miniavatar-img"
+                                className="miniavatar-img"
                                 alt="Image placeholder"
                                 src="https://demos.creative-tim.com/vue-argon-dashboard-pro//img/theme/team-4.jpg"
                               />
                               <img
-                                class="miniavatar-img pegadito"
+                                className="miniavatar-img pegadito"
                                 alt="Image placeholder"
                                 src="https://laboratoriosniam.com/wp-content/uploads/2018/07/michael-dam-258165-unsplash_WEB2.jpg"
                               />
                               <img
-                                class="miniavatar-img pegadito"
+                                className="miniavatar-img pegadito"
                                 alt="Image placeholder"
                                 src="https://www.psicoactiva.com/blog/wp-content/uploads/2017/07/hombre-soltero-feliz.jpg"
                               />
                               <img
-                                class="miniavatar-img pegadito"
+                                className="miniavatar-img pegadito"
                                 alt="Image placeholder"
                                 src="https://media.aweita.larepublica.pe/678x508/aweita/imagen/2018/02/08/noticia-persona-positiva.png"
                               />
@@ -207,7 +207,7 @@ class Icons extends React.Component {
                               </div>
                               <a href="#">
                                 <img
-                                  class="avatar-img"
+                                  className="avatar-img"
                                   alt="Image placeholder"
                                   src="https://demos.creative-tim.com/vue-argon-dashboard-pro//img/theme/team-4.jpg"
                                 />
@@ -237,22 +237,22 @@ class Icons extends React.Component {
                             <Col xs="auto">
                               participantes:&nbsp;&nbsp;
                               <img
-                                class="miniavatar-img"
+                                className="miniavatar-img"
                                 alt="Image placeholder"
                                 src="https://demos.creative-tim.com/vue-argon-dashboard-pro//img/theme/team-4.jpg"
                               />
                               <img
-                                class="miniavatar-img pegadito"
+                                className="miniavatar-img pegadito"
                                 alt="Image placeholder"
                                 src="https://laboratoriosniam.com/wp-content/uploads/2018/07/michael-dam-258165-unsplash_WEB2.jpg"
                               />
                               <img
-                                class="miniavatar-img pegadito"
+                                className="miniavatar-img pegadito"
                                 alt="Image placeholder"
                                 src="https://www.psicoactiva.com/blog/wp-content/uploads/2017/07/hombre-soltero-feliz.jpg"
                               />
                               <img
-                                class="miniavatar-img pegadito"
+                                className="miniavatar-img pegadito"
                                 alt="Image placeholder"
                                 src="https://media.aweita.larepublica.pe/678x508/aweita/imagen/2018/02/08/noticia-persona-positiva.png"
                               />
@@ -306,7 +306,7 @@ class Icons extends React.Component {
                               </div>
                               <a href="#">
                                 <img
-                                  class="avatar-img"
+                                  className="avatar-img"
                                   alt="Image placeholder"
                                   src="https://demos.creative-tim.com/vue-argon-dashboard-pro//img/theme/team-4.jpg"
                                 />
@@ -328,7 +328,7 @@ class Icons extends React.Component {
                             <Col xs="auto">
                               Asesor(a):&nbsp;&nbsp;
                               <img
-                                class="miniavatar-img"
+                                className="miniavatar-img"
                                 alt="Image placeholder"
                                 src="https://www.psicoactiva.com/blog/wp-content/uploads/2017/07/mujer-feliz-gorro-tatuaje.jpg"
                               />
@@ -336,22 +336,22 @@ class Icons extends React.Component {
                             <Col xs="auto">
                               participantes:&nbsp;&nbsp;
                               <img
-                                class="miniavatar-img"
+                                className="miniavatar-img"
                                 alt="Image placeholder"
                                 src="https://demos.creative-tim.com/vue-argon-dashboard-pro//img/theme/team-4.jpg"
                               />
                               <img
-                                class="miniavatar-img pegadito"
+                                className="miniavatar-img pegadito"
                                 alt="Image placeholder"
                                 src="https://laboratoriosniam.com/wp-content/uploads/2018/07/michael-dam-258165-unsplash_WEB2.jpg"
                               />
                               <img
-                                class="miniavatar-img pegadito"
+                                className="miniavatar-img pegadito"
                                 alt="Image placeholder"
                                 src="https://www.psicoactiva.com/blog/wp-content/uploads/2017/07/hombre-soltero-feliz.jpg"
                               />
                               <img
-                                class="miniavatar-img pegadito"
+                                className="miniavatar-img pegadito"
                                 alt="Image placeholder"
                                 src="https://media.aweita.larepublica.pe/678x508/aweita/imagen/2018/02/08/noticia-persona-positiva.png"
                               />
