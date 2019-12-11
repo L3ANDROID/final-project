@@ -1,0 +1,36 @@
+.miniavatar-img {
+  vertical-align: middle;
+  width: 30px;
+  height: 30px;
+  border-radius: 50%;
+}
+
+.pegadito{
+  margin-left: -10px;
+}
+
+.avatar-img {
+    vertical-align: middle;
+    width: 35px;
+    height: 35px;
+    border-radius: 50%;
+  }
+
+  .vacio{
+    display: inline;
+  }
+
+  .normal{
+    margin-top: 5px;
+    margin-bottom: 5px;
+  }
+
+  .texto-negro{
+    color: #000000 !important
+}
+
+  @media (max-width: 770px) {
+    .vacio {
+      display: none;
+    }
+  }
