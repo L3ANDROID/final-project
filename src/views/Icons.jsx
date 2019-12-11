@@ -102,7 +102,7 @@ class Icons extends React.Component {
                             </Col>
                             <Col xs="auto" className="text-right">
                               <div className="vacio">
-                                Publicada por:&nbsp;&nbsp;{"Alicia Smith"}
+                                Publicada por:&nbsp;&nbsp;{"Sabrina Pomajulca"}
                                 &nbsp;&nbsp;&nbsp;&nbsp;
                               </div>
                               <a href="#">
@@ -202,7 +202,7 @@ class Icons extends React.Component {
                             </Col>
                             <Col xs="auto" className="text-right">
                               <div className="vacio">
-                                Publicada por:&nbsp;&nbsp;{"Alicia Smith"}
+                                Publicada por:&nbsp;&nbsp;{"Sabrina Pomajulca"}
                                 &nbsp;&nbsp;&nbsp;&nbsp;
                               </div>
                               <a href="#">
@@ -301,7 +301,7 @@ class Icons extends React.Component {
                             </Col>
                             <Col xs="auto" className="text-right">
                               <div className="vacio">
-                                Publicada por:&nbsp;&nbsp;{"Alicia Smith"}
+                                Publicada por:&nbsp;&nbsp;{"Sabrina Pomajulca"}
                                 &nbsp;&nbsp;&nbsp;&nbsp;
                               </div>
                               <a href="#">
